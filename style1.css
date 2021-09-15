@@ -1,0 +1,53 @@
+body{
+	background-color: grey;
+}
+.container{
+	background-color:blue;
+
+}
+img{
+	background-color: grey;
+}
+	.plug{
+	background-color: blue;
+	color:white;
+	width: 30%;
+	height: 40px;
+	padding: 15px;
+}
+input{
+	width:30%;
+	height: 50px;
+	background-color: grey;
+	color:black;
+	padding:5px;
+	border:1px solid white;
+}
+input:hover{
+border: 2px solid blue;
+}
+
+.plug:hover{
+	background-color: white;
+	color:grey;
+
+}
+
+
+
+h3{
+	background-color: green;
+	color: white;
+	width:30%;
+	height:50px; 
+}
+h3:hover{
+	background-color: white;
+	color: grey;
+}
+p{
+	color:black;
+}
+p:hover{
+color:white;
+}
